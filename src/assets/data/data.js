@@ -123,7 +123,7 @@ export const data = {
             id: 2,
             name: 'Muhamad Jaelani Nugraha',
             icon: './src/assets/images/bri.png',
-            rekening: '390112345678'
+            rekening: '39010895603667258'
         },
     ],
 
