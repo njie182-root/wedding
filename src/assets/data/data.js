@@ -2,7 +2,7 @@ export const data = {
     bride: {
         L: {
             id: 1,
-            name: 'Muhamad Jaelani Nugraha',
+            name: 'Jeje',
             child: 'Putra ke 5',
             father: 'Atang',
             mother: 'Holis',
@@ -10,7 +10,7 @@ export const data = {
         },
         P: {
             id: 2,
-            name: 'Icha Sri Wulandari',
+            name: 'Icha',
             child: 'Putri ke 4',
             father: 'Iya Supiyatna',
             mother: 'Siti Rohani (Ibu Yoyoh)',
