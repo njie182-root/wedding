@@ -2,18 +2,18 @@ export const data = {
     bride: {
         L: {
             id: 1,
-            name: 'Lorem Ipsum',
-            child: 'Putra ke lorem',
-            father: 'Lorem',
-            mother: 'Ipsum',
+            name: 'Muhamad Jaelani Nugraha',
+            child: 'Putra ke 5',
+            father: 'Atang',
+            mother: 'Holis',
             image: './src/assets/images/cowo.png'
         },
         P: {
             id: 2,
-            name: 'Ipsum Lorem',
-            child: 'Putri ke lorem',
-            father: 'Lorem',
-            mother: 'Ipsum',
+            name: 'Icha Sri Wulandari',
+            child: 'Putri ke 4',
+            father: 'Iya Supiyatna',
+            mother: 'Siti Rohani (Ibu Yoyoh)',
             image: './src/assets/images/cewe.png'
         },
 
@@ -22,31 +22,31 @@ export const data = {
 
     time: {
         marriage: {
-            year: '2030',
-            month: 'November',
-            date: '14',
-            day: 'Kamis',
+            year: '2025',
+            month: 'Juni',
+            date: '22',
+            day: 'Minggu',
             hours: {
                 start: '08.00',
                 finish: 'Selesai'
             }
         },
         reception: {
-            year: '2024',
-            month: 'November',
-            date: '14',
-            day: 'Kamis',
+            year: '2025',
+            month: 'Juni',
+            date: '22',
+            day: 'Minggu',
             hours: {
                 start: '11.00',
                 finish: 'Selesai'
             }
         },
-        address: 'Kp. Lorem, RT 000/ RW 000, Desa.Lorem, Kec.Ipsum, Kab.Lorem, Lorem (1234)'
+        address: 'Pondok Abah, Jl. Cikopo Sel. Jl. Nagrog, Sukamahi, Kec. Megamendung, Kabupaten Bogor, Jawa Barat 16770'
     },
 
     link: {
         calendar: 'https://calendar.app.google/oSVLRMYC79GzuA4f9',
-        map: 'https://maps.app.goo.gl/q1Ask2Jgd4ekiiKBA',
+        map: 'https://maps.app.goo.gl/TnjwA5wA9MeDK2aV9',
     },
 
     galeri: [
