@@ -73,6 +73,42 @@ export const data = {
         {
             id: 6,
             image: './src/assets/images/6.png'
+        },
+        {
+            id: 7,
+            image: './src/assets/images/7.png'
+        },
+        {
+            id: 8,
+            image: './src/assets/images/8.png'
+        },
+        {
+            id: 9,
+            image: './src/assets/images/9.png'
+        },
+        {
+            id: 10,
+            image: './src/assets/images/10.png'
+        },
+        {
+            id: 11,
+            image: './src/assets/images/11.png'
+        },
+        {
+            id: 12,
+            image: './src/assets/images/12.png'
+        },
+        {
+            id: 13,
+            image: './src/assets/images/13.png'
+        },
+        {
+            id: 14,
+            image: './src/assets/images/14.png'
+        },
+        {
+            id: 15,
+            image: './src/assets/images/15.png'
         }
     ],
 
