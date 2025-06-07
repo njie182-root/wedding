@@ -37,7 +37,7 @@ export const data = {
             date: '22',
             day: 'Minggu',
             hours: {
-                start: '11.00',
+                start: '08.00',
                 finish: 'Selesai'
             }
         },
