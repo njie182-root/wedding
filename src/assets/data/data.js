@@ -121,9 +121,9 @@ export const data = {
         },
         {
             id: 2,
-            name: 'Muhamad Jaelani Nugraha',
+            name: 'Icha Sri Wulandari',
             icon: './src/assets/images/bri.png',
-            rekening: '39010895603667258'
+            rekening: '3901085719621028'
         },
     ],
 
